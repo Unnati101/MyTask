@@ -1,0 +1,22 @@
+.filter-form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.apply-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.apply-btn:hover {
+    background-color: #0056b3;
+}
+
+.filter-section {
+    display: flex;
+}
